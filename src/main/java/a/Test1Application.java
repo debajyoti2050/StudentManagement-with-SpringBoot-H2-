@@ -12,8 +12,7 @@ public class Test1Application {
 //		s.setId(10);
 //		s.setName("cheems");
 //		s.setAddress("japan");
-//		System.out.println(s.getId()+" "+s.getName()+" "+s.getAddress());
-//		
+//		System.out.println(s.getId()+" "+s.getName()+" "+s.getAddress());		
 	}
 
 }
