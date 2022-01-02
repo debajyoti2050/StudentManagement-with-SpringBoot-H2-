@@ -8,7 +8,7 @@ class test {
 	@GetMapping("/")
 	public String call()
 	{
-		return "<h1>I am cheems</h1>";
+		return "<h1>This is a Test Page. paste '/swagger-ui.html' to go to swagger log.</h1>";
 	}
 
 }
